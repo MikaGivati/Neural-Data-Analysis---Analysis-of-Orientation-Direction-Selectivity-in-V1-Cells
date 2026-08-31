@@ -103,6 +103,6 @@ The data file (`data/SpikesX10U12D.npy`) is included in this repo — see
 
 ## Notes
 
-- This was a group assignment, done together with three teammates.
+- This was a group assignment, done together with another teammate.
 - All array operations (spike counting, histogramming, tuning curve evaluation) are
   vectorized rather than looped, per the assignment's requirements.
